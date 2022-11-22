@@ -14,3 +14,7 @@ Repositório criado com o objetivo de armazenar todos os materiais, atividades, 
 ## 📝 Atividades
 
 Cada atividade, projeto ou trabalho da disciplina, terá uma pasta destinada exclusivamente para ele, visando manter a organização e as boas práticas.
+
+## 📝 Índice de Atividades
+<a href="https://github.com/pinheirodavi/LP2A4/tree/main/Atividade2-LP2A4-Thread/src/atividade2LP2A4">Thread</a><br>
+<a href="https://github.com/pinheirodavi/LP2A4/tree/main/ProjetoJpaLp2a4"> JPA (Exercício do N+1) </a><br>
