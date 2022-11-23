@@ -20,5 +20,5 @@ Cada atividade, projeto ou trabalho da disciplina, terá uma pasta destinada exc
 <a href="https://github.com/pinheirodavi/LP2A4/tree/main/lp2a4_crud_properties">Crud Properties</a><br>
 <a href="https://github.com/pinheirodavi/LP2A4/tree/main/lp2a4_crud_jdbc">Crud JDBC</a><br>
 <a href="https://github.com/pinheirodavi/LP2A4/tree/main/lp2a4_crud_jpaDavi">Crud JPA</a><br>
-<a href="">Many to Many</a><br>
+<a href="https://github.com/pinheirodavi/LP2A4/tree/main/ManyToMany">Many to Many</a><br>
 <a href="https://github.com/pinheirodavi/LP2A4/tree/main/ProjetoJpaLp2a4"> JPA (Exercício do N+1) </a><br>
