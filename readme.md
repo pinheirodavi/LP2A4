@@ -7,13 +7,13 @@
 
 <br>
 
-Repositório criado com o objetivo de armazenar todos os materiais, atividades, trabalhos e projetos da disciplina.
+Repositório criado com o objetivo de armazenar todos  as atividades e projetos da disciplina.
 
 <br>
 
 ## 📝 Atividades
 
-Cada atividade, projeto ou trabalho da disciplina, terá uma pasta destinada exclusivamente para ele, visando manter a organização e as boas práticas.
+Cada atividade terá um repositório destinado exclusivamente para ela.
 
 ## 📝 Índice de Atividades
 <a href="https://github.com/pinheirodavi/LP2A4/tree/main/Atividade2-LP2A4-Thread/src/atividade2LP2A4">Thread</a><br>
